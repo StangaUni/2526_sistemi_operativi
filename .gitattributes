@@ -1,0 +1,24 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# --- Source code ---
+*.c     text eol=lf diff=c
+*.h     text eol=lf diff=c
+
+# --- Markup & data ---
+*.md         text eol=lf diff=markdown
+*.json       text eol=lf
+*.txt        text eol=lf
+*.excalidraw text eol=lf
+
+# --- Binary: never diff, never convert ---
+*.pdf   binary
+*.exe   binary
+*.o     binary
+*.out   binary
+
+# --- Images ---
+*.svg   text eol=lf
+*.png   binary
+*.jpg   binary
+*.jpeg  binary

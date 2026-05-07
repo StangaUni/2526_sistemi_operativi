@@ -7,7 +7,8 @@ Riassunti personali redatti a seguito della frequentazione del corso di **Sistem
 | Cartella | Descrizione |
 |----------|-------------|
 | `Riassunti/` | Riassunti delle lezioni, redatti utilizzando tutti i materiali forniti dal docente |
-| `Utils/` | Raccolta di funzioni e pattern ricorrenti, ricavati dall'analisi di esami degli anni passati |
+| `Riassunti_Laboratorio/` | Riassunti delle lezioni di laboratorio |
+| `Utils/` | Guide di preparazione ai compitini, costruite a partire dall'analisi degli esami degli anni passati |
 | `assets/` | Immagini e diagrammi SVG utilizzati nei file Markdown |
 
 ## Visualizzazione
